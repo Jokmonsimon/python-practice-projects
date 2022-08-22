@@ -1,4 +1,4 @@
-# Python Projects for Beginner Level
+# Beginner Python Projects
 
 1. Send Automatic Emails using Python
 2. Defang IP Address
