@@ -4,7 +4,7 @@ This repo contains both beginner and advanced project projects I have worked on 
 
 ## Beginner Python Projects
 
-1. Send Automatic Emails using Python
+1. [Send Automatic Emails using Python](https://github.com/Jokmonsimon/python-practice-projects/blob/master/beginners/send-emails.py)
 2. Defang IP Address
 3. Password Authentication using Python
 4. Web Scraping to create a dataset
